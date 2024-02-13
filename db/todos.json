@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Fare la spesa",
+        "status": false
+    },
+    {
+        "task": "Riordinare Casa",
+        "status": false
+    },
+    {
+        "task": "Andare all'allenamento",
+        "status": false
+    }
+]
